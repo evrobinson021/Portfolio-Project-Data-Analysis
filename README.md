@@ -1,4 +1,4 @@
-# Portfolio: Sports-Company-Data-Analysis
+# Portfolio: Bike-Shop-Data-Analysis
 
 This repository contains SQL scripts developed to analyse a relational dataset for a sports retail company. The dataset includes customer, product, and sales data.
 
