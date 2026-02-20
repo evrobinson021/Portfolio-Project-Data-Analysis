@@ -22,7 +22,7 @@ This analysis includes:
 
 The Sales Dashboard presents:
 
-KPI Overview
+### KPI Overview
 
 - Total Sales (CY vs PY)
 
@@ -34,17 +34,17 @@ KPI Overview
 
 - Min/Max month highlighting
 
-Monthly Trends
+### Monthly Trends
 
 - Current Year vs Previous Year comparison
 
 - Highlighted highest and lowest performing months
 
-Product Subcategory Analysis
+### Product Subcategory Analysis
 
 - Sales and quantity comparison by subcategory
 
-Weekly Performance
+### Weekly Performance
 
 - Weekly Sales & AOV
 
@@ -60,7 +60,7 @@ Weekly Performance
 
 - GitHub – Version control & project documentation
 
-Skills Demonstrated
+### Skills Demonstrated
 
 - Data modelling & relational analysis
 
